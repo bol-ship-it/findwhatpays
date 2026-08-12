@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Preview deployment: intentionally empty. 41 routes exist but
+     are withheld from indexing until a production domain is configured.
+     Set SITE_INDEXABLE=true to emit the full sitemap. -->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+</urlset>

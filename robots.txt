@@ -1,0 +1,4 @@
+# Preview deployment — not for indexing.
+# Set SITE_INDEXABLE=true on the production domain to allow crawling.
+User-agent: *
+Disallow: /
