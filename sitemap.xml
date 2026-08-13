@@ -41,22 +41,7 @@
     <priority>0.3</priority>
   </url>
   <url>
-    <loc>https://findwhatpays.com/opportunities/faceless-ugc</loc>
-    <lastmod>2026-08-12</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://findwhatpays.com/opportunities/hand-and-parts-modelling</loc>
-    <lastmod>2026-08-12</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
     <loc>https://findwhatpays.com/opportunities/paid-research-studies</loc>
-    <lastmod>2026-08-12</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://findwhatpays.com/opportunities/mock-juror</loc>
     <lastmod>2026-08-12</lastmod>
     <priority>0.8</priority>
   </url>
@@ -66,17 +51,17 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://findwhatpays.com/opportunities/renting-out-your-pool</loc>
-    <lastmod>2026-08-12</lastmod>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://findwhatpays.com/opportunities/renting-your-yard-to-dog-owners</loc>
+    <loc>https://findwhatpays.com/opportunities/faceless-ugc</loc>
     <lastmod>2026-08-12</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://findwhatpays.com/opportunities/renting-unused-storage-space</loc>
+    <lastmod>2026-08-12</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://findwhatpays.com/opportunities/mock-juror</loc>
     <lastmod>2026-08-12</lastmod>
     <priority>0.8</priority>
   </url>
@@ -91,12 +76,22 @@
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://findwhatpays.com/opportunities/selling-hair</loc>
+    <loc>https://findwhatpays.com/opportunities/renting-out-your-pool</loc>
+    <lastmod>2026-08-12</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://findwhatpays.com/opportunities/renting-your-yard-to-dog-owners</loc>
     <lastmod>2026-08-12</lastmod>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://findwhatpays.com/opportunities/selling-male-feet-pictures</loc>
+    <lastmod>2026-08-12</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://findwhatpays.com/opportunities/selling-hair</loc>
     <lastmod>2026-08-12</lastmod>
     <priority>0.8</priority>
   </url>
@@ -146,17 +141,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://findwhatpays.com/platforms/feetfinder</loc>
-    <lastmod>2026-08-12</lastmod>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://findwhatpays.com/platforms/etsy</loc>
-    <lastmod>2026-08-12</lastmod>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://findwhatpays.com/platforms/funwithfeet</loc>
     <lastmod>2026-08-12</lastmod>
     <priority>0.6</priority>
   </url>
@@ -166,7 +151,22 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://findwhatpays.com/platforms/feetfinder</loc>
+    <lastmod>2026-08-12</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://findwhatpays.com/platforms/neighbor</loc>
+    <lastmod>2026-08-12</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://findwhatpays.com/platforms/funwithfeet</loc>
+    <lastmod>2026-08-12</lastmod>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://findwhatpays.com/platforms/prolific</loc>
     <lastmod>2026-08-12</lastmod>
     <priority>0.6</priority>
   </url>
@@ -181,7 +181,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://findwhatpays.com/platforms/prolific</loc>
+    <loc>https://findwhatpays.com/platforms/swimply</loc>
     <lastmod>2026-08-12</lastmod>
     <priority>0.6</priority>
   </url>
@@ -191,17 +191,12 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://findwhatpays.com/platforms/swimply</loc>
+    <loc>https://findwhatpays.com/platforms/usertesting</loc>
     <lastmod>2026-08-12</lastmod>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://findwhatpays.com/platforms/voices</loc>
-    <lastmod>2026-08-12</lastmod>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://findwhatpays.com/platforms/usertesting</loc>
     <lastmod>2026-08-12</lastmod>
     <priority>0.6</priority>
   </url>
