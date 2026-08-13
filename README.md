@@ -1,11 +1,8 @@
-# OddMoney — preview build artifact
+# Find What Pays — deployed build artifact
 
-Compiled static output only. Source, data records and documentation live in the
-private `OddMoney` repository.
+Compiled static output only. Source, data records and documentation live in a
+separate private repository.
 
-**Preview:** https://bol-ship-it.github.io/oddmoney-preview/
+**Live site:** https://findwhatpays.com
 
-Served `noindex, nofollow` with `robots.txt` disallowing crawling — a
-temporary host must not compete with the real domain in search.
-
-Do not edit here. Overwritten by `npm run publish:preview`.
+Do not edit here. Overwritten by `npm run publish:site`.

@@ -1,0 +1,11 @@
+{
+  "name": "Find What Pays",
+  "short_name": "Find What Pays",
+  "description": "Find What Pays maps unconventional ways to make money from assets, skills, space, time and content you already have — with verified platform fees, requirements and payout terms, and sources for every number.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "browser",
+  "background_color": "#fbfaf8",
+  "theme_color": "#0f5f52",
+  "lang": "en"
+}
